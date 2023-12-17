@@ -24,7 +24,7 @@ To use this project, follow these steps:
 
 1. Download or clone the repository to your computer.
 ```
-git clone https://github.com/gherrada22/Happy-Holidays.git
+git clone https://github.com/benf-le/Christmas-Tree.git
 ```
 2. Open the `index.html` file in your favourite web browser.
 3. Enjoy your interactive rotating Christmas tree!
