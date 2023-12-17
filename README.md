@@ -1,4 +1,4 @@
-# Happy Holidays
+# Christmas Tree
 
 Celebrate the festive season with our interactive rotating Christmas tree! This project includes 3D lights and a gift at the base so you can enjoy the magic of Christmas from the comfort of your home.
 
@@ -50,12 +50,6 @@ Before making a pull request, make sure that your code meets our style standards
 This project is licensed under the MIT License. You may use and modify the code according to the terms of this licence.
 
 
-## Contact
+## Source Code
+https://github.com/gherrada22/Happy-Holidays
 
-If you have any questions or comments about this project, please do not hesitate to contact me via the links below:
-
-- George Herrada Farfán <br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gherrada22) [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gherrada22) [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@gherrada22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gherrada22)
-
-I hope you found this Readme useful - Happy Holidays!
